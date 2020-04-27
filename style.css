@@ -108,7 +108,9 @@ img {
     width: 100%;
   }
 
-  #step .row .left, #step .row .central, #step .row .right {
+  #step .row .left
+  #step .row .central
+  #step .row .right {
     width: 100%;
   }
 
@@ -148,11 +150,14 @@ img {
 /* FINE REGOLE GENERICHE */
 /* INIZIO REGOLE SPECIFICHE */
 
-  #lezioni .row .lef, #lezioni .row .right {
+  #lezioni .row .lef
+  #lezioni .row .right {
     width: 100%;
   }
 
-  #step .row .left, #step .row .central, #step .row .right {
+  #step .row .left
+  #step .row .central
+  #step .row .right {
     width: 100%;
   }
 
