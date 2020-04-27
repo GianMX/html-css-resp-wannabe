@@ -73,3 +73,43 @@ img {
 }
 
 /* NAVIGABILITA <420px */
+@media screen and ( max-width: 419px){
+  body {
+    background-color: black;
+    color: white;
+
+  }
+
+  div {
+    background-color: #12590d;
+  }
+
+  img {
+    height: 50px;
+  }
+
+  hr {
+    color:white;
+  }
+
+  .row {
+    width: 100%;
+  }
+
+  #lezioni .row .lef
+  #lezioni .row .right {
+    width: 100%;
+    margin-bottom: 50px;
+
+  }
+
+  #step .row .left
+  #step .row .central
+  #step .row .right {
+    width: 100%;
+  }
+
+  #why .row img {
+    height: 150px;
+  }
+}
